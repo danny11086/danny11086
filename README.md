@@ -36,10 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny1144&repo=ppyolo-captcha&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
-<!-- GitHub奖杯🏆 -->
-<div align="center">
-<img  src="https://github-profile-trophy.vercel.app/?username=danny1144&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
-</div>
+ 
 
 <!-- GitHub数据统计 -->
 <div align="center">
@@ -55,7 +52,7 @@
 <!-- 🧠 常用工具
 
 <div align="center">
-<img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+<img alt-"java" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="java">
 <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
 <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
 <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
