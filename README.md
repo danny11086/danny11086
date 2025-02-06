@@ -12,34 +12,8 @@
 <p>&emsp;&emsp;勤能补拙, 努力一定会有收获, 我们都将深耕在这片土地 ...</p>
 
 💪 正在学习: 
-
-&emsp;&emsp;
-![kubernetes](https://img.shields.io/badge/-k8s-blue?style=flat-square&logo=Kubernetes&color=ff69b4&logoColor=#326CE5)
-![NLP](https://img.shields.io/badge/-Python_NLP-grey?style=flat-square&logo=python&logoColor=brightgreen)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![GOLANG](https://img.shields.io/badge/-golang-pink?style=flat-square&logo=go&logoColor=blue)
-
-
-<!-- 敲代码的图片 -->
-<!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/danny1144/danny1144/assets/work_on_night.gif"/></div> -->
-
-
-
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/danny1144/danny1144/assets/github-contribution-grid-snake.svg" /></div>
-
-<!-- 比较好的开源项目卡片 -->
-<div align="center">
-<a href="https://github.com/danny1144/NewsCrawl">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny1144&repo=NewsCrawl&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/danny1144/ppyolo-captcha">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny1144&repo=ppyolo-captcha&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
-
-<!-- GitHub奖杯🏆 -->
-<div align="center">
-<img  src="https://github-profile-trophy.vercel.app/?username=danny1144&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
-</div>
+  
+ 
 
 <!-- GitHub数据统计 -->
 <div align="center">
