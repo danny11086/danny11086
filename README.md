@@ -10,15 +10,7 @@
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码构建理想化的智能体系。</p>
 <p>&emsp;&emsp;勤能补拙, 努力一定会有收获, 我们都将深耕在这片土地 ...</p>
-
-💪 正在学习: 
-
-&emsp;&emsp;
-![kubernetes](https://img.shields.io/badge/-k8s-blue?style=flat-square&logo=Kubernetes&color=ff69b4&logoColor=#326CE5)
-![NLP](https://img.shields.io/badge/-Python_NLP-grey?style=flat-square&logo=python&logoColor=brightgreen)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![GOLANG](https://img.shields.io/badge/-golang-pink?style=flat-square&logo=go&logoColor=blue)
-
+ 
 
 <!-- 敲代码的图片 -->
 <!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/danny1144/danny1144/assets/work_on_night.gif"/></div> -->
@@ -65,6 +57,4 @@
 <!-- just img
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
  -->
-<!-- profile-3d-contrib -->
-🧰 Github-3D贡献图
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/danny1144/danny1144/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+ 
