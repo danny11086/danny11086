@@ -10,7 +10,15 @@
 <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码构建理想化的智能体系。</p>
 <p>&emsp;&emsp;勤能补拙, 努力一定会有收获, 我们都将深耕在这片土地 ...</p>
- 
+
+💪 正在学习: 
+
+&emsp;&emsp;
+![kubernetes](https://img.shields.io/badge/-k8s-blue?style=flat-square&logo=Kubernetes&color=ff69b4&logoColor=#326CE5)
+![NLP](https://img.shields.io/badge/-Python_NLP-grey?style=flat-square&logo=python&logoColor=brightgreen)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![GOLANG](https://img.shields.io/badge/-golang-pink?style=flat-square&logo=go&logoColor=blue)
+
 
 <!-- 敲代码的图片 -->
 <!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/danny1144/danny1144/assets/work_on_night.gif"/></div> -->
@@ -28,7 +36,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=danny1144&repo=ppyolo-captcha&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
- 
+<!-- GitHub奖杯🏆 -->
+<div align="center">
+<img  src="https://github-profile-trophy.vercel.app/?username=danny1144&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
+</div>
 
 <!-- GitHub数据统计 -->
 <div align="center">
@@ -44,7 +55,7 @@
 <!-- 🧠 常用工具
 
 <div align="center">
-<img alt-"java" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="java">
+<img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
 <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
 <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
 <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
